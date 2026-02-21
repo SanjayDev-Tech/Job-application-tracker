@@ -1,6 +1,6 @@
 🚀 Job Application Tracker
 
-A Modular OOP-Based Career Management System
+A modular, OOP-based CLI application to manage, track, and analyze job applications with JSON persistence, analytics insights, and automated follow-up reminders.
 
 📌 Problem It Solves
 
@@ -37,6 +37,15 @@ Automates follow-up reminders
 This is not just a CRUD app.
 
 It simulates real-world backend architecture principles.
+
+## ✨ Features
+
+- 📌 Add, update, and delete job applications
+- 🗂 Persistent storage using JSON
+- 📊 Analytics dashboard (status breakdown, success rate, trends)
+- ⏰ Automated follow-up reminder detection
+- 🧱 Modular clean architecture
+- 🧠 Object-Oriented Domain Modeling
 
 🏗 Architecture Overview
 
