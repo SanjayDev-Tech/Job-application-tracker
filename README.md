@@ -193,3 +193,5 @@ CSV export
 Data visualization charts
 
 REST API version
+<img width="978" height="594" alt="image" src="https://github.com/user-attachments/assets/7c7aad01-837a-411c-949a-b3b722796837" />
+
