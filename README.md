@@ -41,7 +41,11 @@ It simulates real-world backend architecture principles.
 🏗 Architecture Overview
 
 The project follows clean modular design:
+## 🏗 Architecture Overview
 
+The project follows a clean modular design:
+
+```
 job_tracker/
 │
 ├── models.py        # Application entity (OOP core)
@@ -50,6 +54,7 @@ job_tracker/
 ├── analytics.py     # Metrics & statistics engine
 ├── reminders.py     # Follow-up detection system
 └── main.py          # CLI interface
+```
 🔹 OOP-Based Domain Modeling
 
 Each job application is represented as a structured object with:
